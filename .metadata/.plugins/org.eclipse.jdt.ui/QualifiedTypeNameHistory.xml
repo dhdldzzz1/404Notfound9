@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.pj.springboot.auth.EmployeeEntity"/>
+    <fullyQualifiedTypeName name="com.pj.springboot.auth.repository.EmployeeRepository"/>
+    <fullyQualifiedTypeName name="com.pj.springboot.arch.entity.ArchiveEntity"/>
+    <fullyQualifiedTypeName name="com.pj.springboot.arch.dto.ArchDTO"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="com.pj.springboot.arch.service.ArchfilesService"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.pj.springboot.arch.dto.ArchfilesDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.pj.springboot.arch.entity.ArchfilesEntity"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.pj.springboot.arch.util.FileUtil"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>

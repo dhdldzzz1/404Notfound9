@@ -1,0 +1,41 @@
+1757490030251	Delete element
+1757490128387	Copy package
+1757490131882	Delete element
+1757490136885	Delete element
+1757490256637	Rename type 'DTO'
+1757490275220	Delete element
+1757490855699	Delete elements
+1757490898448	Copy package
+1757490917199	Copy package
+1757490958444	Copy package
+1757490969593	Rename package 'com.pj.springboot.arch.controller.arch.dto'
+1757491031474	Copy package
+1757491041871	Rename package 'com.pj.springboot.arch.arch.dto.entity'
+1757491045549	Delete element
+1757491061496	Rename package 'com.pj.springboot.arch.controller.service'
+1757491096270	Copy package
+1757491144947	Rename package 'com.pj.springboot.service.copy'
+1757491197171	Rename package 'com.pj.springboot.dto'
+1757491206448	Rename package 'com.pj.springboot.service'
+1757491215195	Rename package 'com.pj.springboot.arch.arch.entity'
+1757492682032	Delete element
+1757553211970	Delete element
+1757638963754	Copy package
+1757638983305	Rename package 'com.pj.springboot.arch.entity.copy'
+1757639064526	Rename compilation unit 'ArchiveEntity.java'
+1757639385704	Rename compilation unit 'ArchfileEntity.java'
+1757639571968	Copy package
+1757639595689	Rename type 'ArchiveRepository'
+1757639926079	Copy package
+1757639939618	Rename type 'ArchiveService'
+1757641805850	Copy package
+1757641816513	Rename type 'ArchiveController'
+1757641948922	Rename type 'Archcontroller'
+1757641969998	Rename type 'ArchiveController'
+1757641986025	Delete element
+1757641999262	Move compilation unit
+1757642011755	Move compilation unit
+1757642037063	Move compilation unit
+1757642048190	Delete elements
+1757642067132	Copy compilation unit
+1757642390384	Delete element
