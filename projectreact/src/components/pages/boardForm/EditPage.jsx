@@ -1,12 +1,10 @@
-import React, { useEffect, useState } from "react";
-import { Container, Table, Button, Form, Spinner } from "react-bootstrap";
-import "./BoardPage.css";
-import { useNavigate, useParams } from "react-router-dom";
 import axios from "axios";
+import { useEffect, useState } from "react";
+import { Button, Container, Form, Spinner, Table } from "react-bootstrap";
+import { useNavigate, useParams } from "react-router-dom";
 import { v4 } from "uuid";
-import { useAuth } from "../reportform/AuthContext";
+import { useAuth } from "../LoginForm/AuthContext";
 import "./EditPage.css";
-
 
 function EditPage(props) {
 
@@ -108,6 +106,7 @@ function EditPage(props) {
       <h1 className="hero__title">게시글 작성</h1>
     </section>
 
+<form onSubmit={handleSubmit}>
 <Table className="write-table">
   {/* 4열: 라벨/필드/라벨/필드 */}
   <colgroup>
@@ -187,6 +186,7 @@ function EditPage(props) {
         <Button className="btn-delete" variant="secondary" onClick={handleReset}>초기화</Button>
         <Button className="btn-list" variant="info" onClick={goList}>목록으로</Button>
         </div>
+        </form>
     </div>
   );
 };
